@@ -1,0 +1,54 @@
+.media {
+    margin-left: 200px;
+    margin-top: 10px;
+    display: inline-flex;
+    border: solid rgb(153, 150, 150) 1px;
+    width: 900px;
+    height: 200px;
+}
+
+.media-body {
+    margin: auto;
+    width: 150px;
+}
+
+.media-right {
+    margin: 10px 30px;
+    height: 175px;
+    width: 100px;
+}
+
+.media-right a {
+    margin: 5px 0px;
+}
+
+.media-left {
+    margin: auto 40px;
+}
+
+#buscador {
+    margin: 100px auto 0px;
+    display: flex;
+    justify-content: center
+}
+
+#search {
+    margin-top: 4px;
+}
+
+#mess {
+    width: 150px;
+    margin-left: 200px;
+}
+
+#borrar1 .modal-body {
+    text-align: center;
+}
+
+#borrar2 .modal-body {
+    text-align: center;
+}
+
+#borrar3 .modal-body {
+    text-align: center;
+}
