@@ -1,15 +1,11 @@
 .media {
     margin-left: 200px;
     margin-top: 10px;
-    display: inline-flex;
-    border: solid rgb(153, 150, 150) 1px;
-    width: 900px;
-    height: 200px;
 }
 
 .media-body {
     margin: auto;
-    width: 150px;
+    width: 850px;
 }
 
 .media-right {
